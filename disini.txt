@@ -1,0 +1,9 @@
+master - HOC
+Branch - Redux
+
+npm install
+npm start
+
+npm i --save redux
+npm i --save react-redux
+npm i --save prop-types
